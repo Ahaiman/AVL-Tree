@@ -1,4 +1,5 @@
 # AVL-Tree
-As part of the university data structure course, we were asked to implement an Fibonacci Heap with all the functions that accompany it. 
-This project includes the implementaion itself using OOP, and functions like: insert, delete min, decrease key and more.
-Grade: 97
+
+As part of a university data structure course, we were asked to implement an AVL tree with all the functions that accompany it.
+This project includes the implementaion itself using OOP, and functions like: insert, delete, split, join and more. 
+Final grade: 100
